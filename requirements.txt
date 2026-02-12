@@ -1,0 +1,15 @@
+aiofiles==25.1.0
+biopython==1.86
+lxml==6.0.2
+networkx==3.6.1
+numpy==2.4.1
+pandas==3.0.0
+pillow==12.1.0
+psutil==7.2.1
+pyparsing==3.3.2
+pyteomics==4.7.5
+python-dateutil==2.9.0.post0
+rdflib==7.5.0
+rdkit==2025.9.4
+six==1.17.0
+tqdm==4.67.1
