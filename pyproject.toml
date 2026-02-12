@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "PharmaSight"
-version = "0.1.0"
+version = "0.1.5"
 description = "Asynchronous genomic comparison and visualization toolkit to perform on local devices(parsers, loaders, matchers, visualizers)."
 authors = [{ name = "Onur Kavrik", email = "onur@biotronics.io" }]
 maintainers = [{ name = "Biotronics Ai", email = "tech@biotronics.ai" }]

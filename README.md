@@ -6,6 +6,11 @@
 
 An open-source asynchronous proteomic and molecular comparison toolkit built by Biotronics AI. It supports multi-format parsing, efficient memory management with lazy-loading, and local similarity matching for pharma, drug repurposing/repositioning and molecular analysis workflows.
 
+**Documentation & Resources:**
+
+- **GitHub Repository:** [Biotronics-Ai/PharmaSight](https://github.com/Biotronics-Ai/PharmaSight)
+- **Research Paper:** [PharmaSight Preprint](https://zenodo.org/records/18621975)
+
 **What it delivers in practice?**
 
 - **Multi-format molecular comparison within seconds:** Parse 14+ file formats (PDB, MMCIF, FASTA, MZML, SMILES, InChI, and more), stream in batches, eliminate weak candidates fast, then score the top matches with kernel-based similarity search.
